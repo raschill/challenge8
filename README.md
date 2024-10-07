@@ -34,8 +34,8 @@ Cd into index.ts. Open in Integrated Terminal. Type "npm install typescript inqu
 
  ## Contributing
 
-Ariel Schilling
-Boot Camp, responsible for starter code.
+- Ariel Schilling
+- Boot Camp, responsible for starter code.
 
  ## Tests
 
